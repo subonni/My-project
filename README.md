@@ -1,6 +1,18 @@
 # My-project
 End-to-end Python workflow for scraping, cleaning, and analyzing retail sales and customer behavior data.
 
+## PROJECTS 1
+
+### Customer Churn Analysis \| Python, SQL, Pandas, Seaborn, MySQL
+
+- Analyzed 7,043 telecom customer records to identify retention and churn patterns.
+- Performed data cleaning, exploratory data analysis, and statistical summarization using Python and Pandas.
+- Developed SQL queries to evaluate customer behavior, contract types, and churn risk.
+- Created visualizations showing churn distribution, contract\-based churn trends, and monthly charge patterns.
+- Generated business recommendations to improve customer retention and reduce customer attrition.
+- Published project documentation, code, SQL queries, and visualizations on GitHub.
+
+
 
 # Customer Churn Analysis using Python and SQL
 
